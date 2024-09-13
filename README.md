@@ -4,7 +4,7 @@ This is a simple e-commerce platform built using the MERN stack (MongoDB, Expres
 ## 🔗 Hosted link: [E-Commerce](https://products-eezk.vercel.app/)
 
 ## 🧑‍💻Screenshot
-<img src="https://drive.google.com/file/d/1tfa-n6sOvCdO6Wmg_Yu0G8ZBoGUJxkdZ/view?usp=sharing" width="500px">
+<img src="https://github.com/AniketMujbaile/products/blob/main/OutputScreenshot.png" width="500px">
 <hr/>
 
 ## ✨Features
